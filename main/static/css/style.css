@@ -1,0 +1,81 @@
+.login{
+    
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    padding-top: 20px;
+    color: whitesmoke;
+}
+label{
+    display: flex !important;
+    justify-content: center !important;
+    font-family: 'Poiret One', cursive;
+     font-weight: bolder;
+}
+h1.login{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+    
+}
+.button_login{
+    display: flex !important;
+    justify-content: center !important;
+}
+.btn-danger{
+    background-color: #680E4B !important;
+    border-color: #680E4B !important;
+}
+.btn-danger:hover{
+    background-color: red !important;
+}
+.register{
+    
+    justify-content: center;
+    width: 50%;
+    color: whitesmoke;
+    padding-top: 20px;
+    
+   
+}
+.log{
+    display: flex;
+    justify-content: center;
+}
+.reg{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+}
+h1.register{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+}
+body{
+    background-image: linear-gradient(.25turn, #42033D,#7C238C) !important;
+    
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer
+{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: 'Poiret One', cursive;
+     font-weight: bolder;
+     padding-top: 100px;
+}
